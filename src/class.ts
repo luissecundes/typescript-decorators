@@ -4,6 +4,7 @@ function setAPIversion (apiVersion: string) {
         return class extends constructor {
             
         }
+        // Exercício pendente
         
     }
 }
